@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">a dedicated 3rd-year Computer Science and Engineering student specializing in AI and Data Science. I'm passionate about using technology to solve real-world problems through data-driven solutions. Actively involved in projects, research, and hackathons, I constantly seek opportunities to grow and collaborate within the tech community.</p>
+<p align="left">Dedicated 3rd-year Computer Science and Engineering student specializing in AI and Data Science. I'm passionate about using technology to solve real-world problems through data-driven solutions. Actively involved in projects, research, and hackathons, I constantly seek opportunities to grow and collaborate within the tech community.</p>
 
 ###
 
@@ -53,11 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KETANBONDLA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KETANBONDLA/count.svg?"  />
-</div>
 
 ###
 
