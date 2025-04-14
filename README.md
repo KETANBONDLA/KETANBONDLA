@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">It's Ketan<br>I'm a Data Analyst</p>
+<p align="left">It's Ketan I'm a Data Analyst</p>
 
 ###
 
